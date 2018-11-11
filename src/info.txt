@@ -1,0 +1,2 @@
+rigger()
+//= template/footer.html
